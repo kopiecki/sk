@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 200MSP1T1B1M2QEH
+D TOGGLE, 3A 120VAC/28VDC, SPDT On-On, Panel Mount PC Pin
+K
+F https://configured-product-images.s3.amazonaws.com/2D/specs/200MSP1T1B1M2QEH.pdf
+$ENDCMP
+#
+#End Doc Library

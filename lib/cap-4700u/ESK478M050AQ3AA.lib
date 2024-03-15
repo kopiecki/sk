@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ESK478M050AQ3AA
+#/636572/1032307/2.50/2/2/Capacitor Polarised
+DEF ESK478M050AQ3AA C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "ESK478M050AQ3AA" 350 150 50 H V L CNN
+F2 "CAPPRD1000W80D2200H3700" 350 50 50 H I L CNN
+F3 "https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf" 350 -50 50 H I L CNN
+F4 "ESK, Aluminum, Aluminum Electrolytic, 4,700 uF, 20%, 50 VDC, -40/+85C, 85C, -40C, 85C, 2,000 Hrs, 10 % , 2.5, 2,350 uA, 3, 3, 22mm, 35mm, Lead Spacing = 10mm, 20mm, 400" 350 -150 50 H I L CNN "Description"
+F5 "37" 350 -250 50 H I L CNN "Height"
+F6 "80-ESK478M050AQ3AA" 350 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/KEMET/ESK478M050AQ3AA?qs=gt1LBUVyoHl7SM9dsUCJjA%3D%3D" 350 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "KEMET" 350 -550 50 H I L CNN "Manufacturer_Name"
+F9 "ESK478M050AQ3AA" 350 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 100 R 50 50 0 0 P
+X ~ 2 500 0 100 L 50 50 0 0 P
+P 5 0 1 6 200 100 200 -100 230 -100 230 100 200 100 N
+P 2 0 1 6 180 50 140 50 N
+P 2 0 1 6 160 70 160 30 N
+P 2 0 1 6 100 0 200 0 N
+P 2 0 1 6 300 0 400 0 N
+P 5 0 1 10 300 100 300 -100 270 -100 270 100 300 100 F
+ENDDRAW
+ENDDEF
+#
+#End Library

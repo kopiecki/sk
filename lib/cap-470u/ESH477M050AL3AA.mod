@@ -1,0 +1,35 @@
+PCBNEW-LibModule-V1  2024-03-15 15:05:42
+# encoding utf-8
+Units mm
+$INDEX
+ESH(13X20)
+$EndINDEX
+$MODULE ESH(13X20)
+Po 0 0 0 15 65f463c6 00000000 ~~
+Li ESH(13X20)
+Cd ESH(13x20)
+Kw Capacitor Polarised
+Sc 0
+At STD
+AR 
+Op 0 0 0
+T0 -0.257 -0.053 1.27 1.27 0 0.254 N V 21 N "C**"
+T1 -0.257 -0.053 1.27 1.27 0 0.254 N I 21 N "ESH(13X20)"
+DC 0 0 6.5 0 0.254 21
+DC 0 0 6.5 0 0.254 24
+$PAD
+Po -2.5 0
+Sh "1" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$PAD
+Po 2.5 0
+Sh "2" C 1.3 1.3 0 0 900
+Dr 0.8 0 0
+At STD N 00E0FFFF
+Ne 0 ""
+$EndPAD
+$EndMODULE ESH(13X20)
+$EndLIBRARY

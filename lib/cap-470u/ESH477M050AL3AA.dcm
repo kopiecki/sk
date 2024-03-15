@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ESH477M050AL3AA
+D ESH, Aluminum, Aluminum Electrolytic, 470 uF, 20%, 50 VDC, -40/+105C, 105C, -40C, 105C, 2,000 Hrs, 12 % , 0.73, 235 uA, 2, 3, 13mm, 20mm, Lead Spacing = 5mm, 20mm, 2000
+K
+F https://content.kemet.com/datasheets/KEM_A4005_ESH.pdf
+$ENDCMP
+#
+#End Doc Library

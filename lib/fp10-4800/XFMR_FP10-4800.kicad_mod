@@ -1,10 +1,10 @@
 
-(footprint XFMR_FP12-3800 (layer F.Cu) (tedit 65E8B287)
+(footprint XFMR_FP10-4800 (layer F.Cu) (tedit 65F45EFD)
   (descr "")
   (fp_text reference REF** (at -27.8206 -41.9346 0) (layer F.SilkS)
     (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
-  (fp_text value XFMR_FP12-3800 (at -22.56 41.975 0) (layer F.Fab)
+  (fp_text value XFMR_FP10-4800 (at -22.56 41.975 0) (layer F.Fab)
     (effects (font (size 1.0 1.0) (thickness 0.15)))
   )
   (pad 1 thru_hole rect (at -23.7363 -27.686) (size 2.286 2.286) (drill 1.524) (layers *.Cu *.Mask) (solder_mask_margin 0.102))

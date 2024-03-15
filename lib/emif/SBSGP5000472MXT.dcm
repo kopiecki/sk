@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SBSGP5000472MXT
+D EMI Filter Circuits 500V 4700 pF X7R 20% 5.25x3.2mm Pi Filte
+K
+F https://media.digikey.com/pdf/Data%20Sheets/Knowles%20Syfer/SBSG.pdf
+$ENDCMP
+#
+#End Doc Library
