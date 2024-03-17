@@ -1,0 +1,24 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model V360CH8
+#/791043/1032307/2.50/2/3/Varistor
+DEF V360CH8 RV 0 30 Y Y 1 F N
+F0 "RV" 550 250 50 H V L CNN
+F1 "V360CH8" 550 150 50 H V L CNN
+F2 "VARC8250X200N" 550 50 50 H I L CNN
+F3 "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/857972.pdf" 550 -50 50 H I L CNN
+F4 "Varistors 230V 250A 70pF 13 Inch Reel" 550 -150 50 H I L CNN "Description"
+F5 "2" 550 -250 50 H I L CNN "Height"
+F6 "576-V360CH8" 550 -350 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Littelfuse/V360CH8?qs=NKHyz0HolOAJpZJ1%252BoXZfg%3D%3D" 550 -450 50 H I L CNN "Mouser Price/Stock"
+F8 "LITTELFUSE" 550 -550 50 H I L CNN "Manufacturer_Name"
+F9 "V360CH8" 550 -650 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 P
+X ~ 2 700 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+P 4 0 1 6 150 -100 250 -100 450 100 550 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

@@ -1,4 +1,4 @@
-23042872020756133
+23063398345240069
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -94387,10 +94387,66 @@ Varistor VF
 0
 2
 2
+barrel-jack
+PJ002A
+PJ-002A-4
+Integrated Circuit
+0
+3
+3
+cap-33u
+EEE0JA152UAP
+SMD_Lytic_G
+Capacitor Polarised
+0
+2
+2
+cap-330u
+CAPPRD500W60D1000H2200
+ESK (10 x 20)
+Capacitor Polarised
+0
+2
+2
+cap-470u
+ESH_13X20_
+ESH(13x20)
+Capacitor Polarised
+0
+2
+2
+cap-2200u
+CAPPRD750W80D1600H3800
+CASE CODE M
+Capacitor Polarised
+0
+2
+2
+cap-4700u
+CAPPRD1000W80D2200H3700
+ESK478M050AQ3AA
+Capacitor Polarised
+0
+2
+2
 conn-5430373
 5430373
 5430373-1
 Connector
+0
+3
+3
+diode
+SE8D20DHM3H
+SE8D20DHM3/H-1
+Diode
+0
+2
+2
+emif
+SBSGP5000472MXT
+SBSGP5000472MXT-5
+Filter
 0
 3
 3
@@ -94401,3 +94457,31 @@ XFMR_FP10-4800
 0
 8
 8
+fuse
+FUSC6125X279N
+0679H
+Fuse
+0
+2
+2
+polyfuse
+FUSC7451X180N
+2920L260/33DR
+Fuse
+0
+2
+2
+switch
+200MSP1T1B1M2QEH
+200MSP1T1B1M2QEH-2
+Switch
+0
+3
+3
+varistor
+VARC8250X200N
+3220
+Varistor
+0
+2
+2

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 0679H8000-05
+D Fuse Chip Fast Acting 8A 350V SMD Solder Pad 2410 6.1 X 2.54 X 2.79mm Ceramic Automotive AEC-Q200
+K
+F https://www.mouser.ec/datasheet/2/643/ds_cp_0679h_series-1290853.pdf
+$ENDCMP
+#
+#End Doc Library

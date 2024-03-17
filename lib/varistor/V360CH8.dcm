@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP V360CH8
+D Varistors 230V 250A 70pF 13 Inch Reel
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA16/857972.pdf
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SE8D20DHM3_H
+D Rectifiers 2A, 200V, SLIMSMAW, STD SM REC
+K
+F https://www.vishay.com/docs/98269/se8d20d_g_j.pdf
+$ENDCMP
+#
+#End Doc Library
