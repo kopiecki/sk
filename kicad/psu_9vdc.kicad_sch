@@ -1446,16 +1446,16 @@
 		(uuid "c353f630-445e-4bb6-a3a9-2bf4ea0cd972")
 	)
 	(junction
+		(at 109.22 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca395595-cf0e-465a-be0d-332db2f870b4")
+	)
+	(junction
 		(at 138.43 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d6763e97-9f1d-498a-a244-a7dbaa752b5f")
-	)
-	(junction
-		(at 109.22 114.3)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d87b9c45-0880-4b31-a6fc-71e043c7e525")
 	)
 	(junction
 		(at 109.22 99.06)
@@ -1517,7 +1517,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 109.22) (xy 91.44 114.3)
+			(xy 91.44 109.22) (xy 91.44 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1534,6 +1534,16 @@
 			(type default)
 		)
 		(uuid "1d9d40cf-4aa0-4ed1-8d2c-32d7cd43b4f8")
+	)
+	(wire
+		(pts
+			(xy 109.22 115.57) (xy 109.22 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "215b814c-842e-4dc6-8df4-9b99fafb5afe")
 	)
 	(wire
 		(pts
@@ -1557,7 +1567,7 @@
 	)
 	(wire
 		(pts
-			(xy 119.38 114.3) (xy 119.38 109.22)
+			(xy 119.38 115.57) (xy 119.38 109.22)
 		)
 		(stroke
 			(width 0)
@@ -1667,6 +1677,16 @@
 	)
 	(wire
 		(pts
+			(xy 109.22 115.57) (xy 119.38 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "726553d2-aa86-45fa-8231-a6b8d38070f3")
+	)
+	(wire
+		(pts
 			(xy 138.43 99.06) (xy 146.05 99.06)
 		)
 		(stroke
@@ -1697,7 +1717,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 114.3) (xy 109.22 114.3)
+			(xy 91.44 115.57) (xy 109.22 115.57)
 		)
 		(stroke
 			(width 0)
@@ -1744,16 +1764,6 @@
 			(type default)
 		)
 		(uuid "ad312e87-fc4a-434e-bbce-4f17588020d4")
-	)
-	(wire
-		(pts
-			(xy 109.22 114.3) (xy 119.38 114.3)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "add059e7-e891-44b7-a5d3-352667e7f1c8")
 	)
 	(wire
 		(pts
@@ -2979,7 +2989,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 109.22 110.49 270)
+		(at 109.22 110.49 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2988,21 +2998,21 @@
 		(fields_autoplaced yes)
 		(uuid "f5103dc6-f402-4532-9180-fe8a30e99e9d")
 		(property "Reference" "D2"
-			(at 111.76 107.6324 90)
+			(at 113.03 110.8074 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Value" "LED"
-			(at 111.76 110.1724 90)
+			(at 113.03 113.3474 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_0805_2012Metric"

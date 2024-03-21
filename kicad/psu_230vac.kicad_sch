@@ -2068,6 +2068,26 @@
 		)
 		(uuid "f58a1660-5204-4876-aecf-4331298a2423")
 	)
+	(text "Warystor przed bezpiecznikiem?"
+		(exclude_from_sim no)
+		(at 91.186 69.342 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3ad2c997-66a1-4625-877d-3debdd3bba8f")
+	)
+	(text "Sprawdzić opór bezpiecznika resetowalnego"
+		(exclude_from_sim no)
+		(at 179.07 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c003fbc5-575e-4f49-87e5-028b34c5e7ce")
+	)
 	(label "TOUT+"
 		(at 142.24 77.47 0)
 		(fields_autoplaced yes)
